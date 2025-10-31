@@ -56,4 +56,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ por [Caio Martins] (https://github.com/Caaio-Martins) com [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ por [Caio Martins](https://github.com/Caaio-Martins) com [Felipe Aguiar](https://github.com/felipeAguiarCode)
